@@ -45,7 +45,7 @@ feature_row:
 
 ### About me:
 
-I am currently a PostDoc researcher in CrabLab at <a href="https://case.edu" target="_blank" rel="noopener noreferrer">Case Western Reserve University (CWRU)</a>, working under the supervision of <a href="[https://case.edu](https://engineering.case.edu/emae/faculty/kathryn-daltorio)" target="_blank" rel="noopener noreferrer">Prof. Kathryn Daltorio</a>. My research focuses on legged robots, human-robot interaction, terrain adaptation, and robotic manipulation.
+I am currently a PostDoc researcher in CrabLab at <a href="https://case.edu" target="_blank" rel="noopener noreferrer">Case Western Reserve University (CWRU)</a>, working under the supervision of <a href="https://engineering.case.edu/emae/faculty/kathryn-daltorio" target="_blank" rel="noopener noreferrer">Prof. Kathryn Daltorio</a>. My research focuses on legged robots, human-robot interaction, terrain adaptation, and robotic manipulation.
 
 ---
 
