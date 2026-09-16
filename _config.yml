@@ -49,14 +49,14 @@ author:
       url: "https://www.linkedin.com/in/jianfeng-zhou-6a2432202"  
 
 # Footer
-footer:
-  links:
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=zY6vMGUAAAAJ&hl=en"  
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-3057-8148"  
+#footer:
+  #links:
+    #- label: "Google Scholar"
+     # icon: "fas fa-fw fa-graduation-cap"
+     # url: "https://scholar.google.com/citations?user=zY6vMGUAAAAJ&hl=en"  
+    #- label: "ORCID"
+     # icon: "fab fa-fw fa-orcid"
+     # url: "https://orcid.org/0000-0003-3057-8148"  
 
 # =============================================================================
 # Reading Files
