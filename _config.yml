@@ -26,11 +26,13 @@ author:
   pronouns: "He/Him"
   bio: "Ph.D.  @CWRU EMAE"
   location: "Cleveland, OH, US"
-  email: "tomzhou@case.edu"
   links:
     - label: "CWRU"
       icon: "fas fa-fw fa-university"
       url: "https://case.edu"
+      - label: "tomzhou@case.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tomzhou@case.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=zY6vMGUAAAAJ&hl=en"  
@@ -45,7 +47,7 @@ author:
       url: "https://www.researchgate.net/profile/Jianfeng-Zhou-16"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/jianfeng-zhou-6a2432202"  
+      url: "https://www.linkedin.com/in/jianfeng-zhou-6a2432202"  
 
 # Footer
 footer:
