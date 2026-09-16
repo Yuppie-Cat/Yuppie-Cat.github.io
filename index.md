@@ -16,13 +16,6 @@ feature_row:
     url: "/research/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/about-thumb.jpg
-    alt: "About Tom Zhou"
-    title: "About Me"
-    excerpt: "Learn more about my academic background, research interests, and ongoing projects at Case Western Reserve University."
-    url: "/about/"
-    btn_label: "About Me"
-    btn_class: "btn--primary"
 ---
 
 <style>
