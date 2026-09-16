@@ -1,10 +1,10 @@
 # Main Navigation Links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
+  - title: "Homepage"
+    url: /
   - title: "Publications"
     url: /publications/
+  - title: "Research"
+    url: /research/
   - title: "Contact"
     url: /contact/
