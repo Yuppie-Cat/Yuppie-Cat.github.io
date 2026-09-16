@@ -10,7 +10,7 @@ header:
   overlay_color: "#1a3a5c"
   overlay_filter: "0.4"
   overlay_image: /assets/images/paper-hero.jpg
-  caption: "IEEE Robotics and Automation Letters, 2025"
+  caption: "IEEE Robotics and Automation Letters"
 ---
 
 <div class="notice--info">
@@ -48,6 +48,3 @@ Force sensing on the end effector is crucial for mobile, legged robots to adapt 
 
 ---
 
-## Links
-
-[📄 View on IEEE Xplore](https://ieeexplore.ieee.org/document/11248832){: .btn .btn--primary} [🔗 DOI: 10.1109/LRA.2025.3632679](https://doi.org/10.1109/LRA.2025.3632679){: .btn .btn--info} [⬅ Back to Publications](/publications/){: .btn .btn--inverse}
