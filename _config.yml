@@ -28,7 +28,7 @@ author:
   links:
     - label: "tomzhou@case.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "https://mail.google.com/mail/?view=cm&to=tomzhou@case.edu"
+      url: "#"
     - label: "CWRU"
       icon: "fas fa-fw fa-university"
       url: "https://case.edu"
