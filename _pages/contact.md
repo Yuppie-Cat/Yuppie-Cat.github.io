@@ -11,8 +11,14 @@ I welcome inquiries about my research, potential collaborations, and academic co
 
 **Email:** [tomzhou@case.edu](mailto:tomzhou@case.edu)
 
-**Office:** Case Western Reserve University  
-Department of Electrical Engineering and Computer Science  
+**ORCID:**[0000-0003-3057-8148](https://orcid.org/0000-0003-3057-8148)
+
+**[Google Scholar](https://scholar.google.com/citations?user=zY6vMGUAAAAJ&hl=en)** / 
+**[ResearchGate](https://www.researchgate.net/profile/Jianfeng-Zhou-16)** / 
+**[LinkedIn](https://www.linkedin.com/in/jianfeng-zhou-6a2432202)**
+
+**Address:** Case Western Reserve University  
+Department of Mechanical and Aerospace Engineering
 10900 Euclid Ave, Cleveland, OH 44106, USA
 
 ---
@@ -23,14 +29,3 @@ My research is conducted in the [Biologically Inspired Robotics Lab](https://eng
 
 ---
 
-## Links
-
-| Platform | Link |
-|----------|------|
-| Email | [tomzhou@case.edu](mailto:tomzhou@case.edu) |
-| Google Scholar | [Your Google Scholar Profile](#) |
-| GitHub | [Your GitHub Profile](#) |
-| LinkedIn | [Your LinkedIn Profile](#) |
-| CWRU Profile | [Case Western Reserve University](#) |
-
-*Note: Replace the `#` placeholders above with your actual profile URLs.*
