@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-
 feature_row:
   - image_path: /assets/images/paper-thumb.jpg
     alt: "Force Sensor"
@@ -21,7 +20,6 @@ feature_row:
 ---
 
 <style>
-/* Prevent long words and links from overflowing */
 .page__content p,
 .page__content li {
   word-wrap: break-word;
@@ -30,63 +28,14 @@ feature_row:
   hyphens: auto;
 }
 
-/* Projects section title */
-.projects-title {
-  margin-top: 1.5em;
-  margin-bottom: 1em;
-  font-size: 2rem;
-  font-weight: 700;
+/* Publication link icon */
+.publication-link-icon {
+  margin-right: 0.35em;
+  text-decoration: none;
 }
 
-/* Display project cards using a three-column grid */
-.projects-grid .feature__wrapper {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 2rem;
-  align-items: stretch;
-  margin-bottom: 2rem;
-}
-
-/* Override the default Minimal Mistakes feature-row layout */
-.projects-grid .feature__item {
-  float: none !important;
-  clear: none !important;
-  width: auto !important;
-  margin: 0 !important;
-  display: flex;
-  flex-direction: column;
-}
-
-/* Make the contents of each card fill the available height */
-.projects-grid .feature__item .archive__item {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-
-/* Keep project images consistent */
-.projects-grid .feature__item .archive__item-teaser img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-}
-
-/* Tablet: two projects per row */
-@media screen and (max-width: 900px) {
-  .projects-grid .feature__wrapper {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-/* Mobile: one project per row */
-@media screen and (max-width: 600px) {
-  .projects-grid .feature__wrapper {
-    grid-template-columns: 1fr;
-  }
-
-  .projects-title {
-    font-size: 1.75rem;
-  }
+.publication-link-icon:hover {
+  text-decoration: none;
 }
 </style>
 
@@ -108,14 +57,15 @@ My research interests include force sensing, legged robot, human-robot interacti
 
 ### Publications:
 
-- [A High Load Density Miniature Force Sensor for Probing With Robot Feet](/publications/force-sensor-2025/)  
+- <a href="/publications/force-sensor-2025/"
+     class="publication-link-icon"
+     aria-label="Open publication webpage"
+     title="Open publication webpage"><i class="fas fa-link" aria-hidden="true"></i></a>A High Load Density Miniature Force Sensor for Probing With Robot Feet
   **J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua and K. A. Daltorio, "A High Load Density Miniature Force Sensor for Probing With Robot Feet," in *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 450-457, Jan. 2026, doi: [10.1109/LRA.2025.3632679](https://doi.org/10.1109/LRA.2025.3632679).  
   *Published in [IEEE Robotics and Automation Letters (RA-L)](/publications/force-sensor-2025/)*
 
 ---
 
-<h2 class="projects-title">My Projects</h2>
+## My Project
 
-<div class="projects-grid">
-  {% include feature_row %}
-</div>
+{% include feature_row %}
