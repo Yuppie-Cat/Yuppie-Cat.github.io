@@ -6,7 +6,7 @@ feature_row:
     alt: "Force Sensor"
     title: "DacSeMo"
     excerpt: "A miniature force sensor module for robot feet with high load density, enabling terrain differentiation and buried object detection."
-    url: "/publications/force-sensor-2025/"
+    url: "/project/DacSeMo/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -57,10 +57,7 @@ My research interests include force sensing, legged robot, human-robot interacti
 
 ### Publications:
 
-- <a href="/publications/force-sensor-2025/"
-     class="publication-link-icon"
-     aria-label="Open publication webpage"
-     title="Open publication webpage"><i class="fas fa-file-alt" aria-hidden="true"></i></a> **J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua and K. A. Daltorio, "A High Load Density Miniature Force Sensor for Probing With Robot Feet," in *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 450-457, Jan. 2026, doi:<a href="https://doi.org/10.1109/LRA.2025.3632679" target="_blank" rel="noopener noreferrer">10.1109/LRA.2025.3632679</a>.
+- **J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua and K. A. Daltorio, "A High Load Density Miniature Force Sensor for Probing With Robot Feet," in ***IEEE Robotics and Automation Letters***, vol. 11, no. 1, pp. 450-457, Jan. 2026, doi:<a href="https://doi.org/10.1109/LRA.2025.3632679" target="_blank" rel="noopener noreferrer">10.1109/LRA.2025.3632679</a>.
 
 ---
 
