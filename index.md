@@ -47,8 +47,7 @@ I am currently a PostDoc researcher in CrabLab at [Case Western Reserve Universi
 
 ### Research Interests:
 
-My **current research** focus is to develop **miniature high-load-density force sensors** for legged robots.
-My broader research interests include force sensing, terrain differentiation, robotic manipulation, and bio-inspired robot design.
+My research interests include force sensing, legged robot, human-robot interaction, robotic manipulation, and bio-inspired robot design.
 
 ---
 
