@@ -2,7 +2,7 @@
 layout: single
 title: "A High Load Density Miniature Force Sensor for Probing With Robot Feet"
 permalink: /project/DacSeMo/
-author_profile: true
+author_profile: false
 toc: false
 toc_label: "Paper Contents"
 toc_icon: "microchip"
@@ -11,17 +11,13 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/paper-hero.jpg
   caption: "IEEE Robotics and Automation Letters"
+  
 ---
 
 <div class="notice--info">
   <strong>Published in:</strong> IEEE Robotics and Automation Letters (RA-L), Vol. 11, No. 1, pp. 450–457, Jan. 2026<br>
   <strong>DOI:</strong> 10.1109/LRA.2025.3632679  >>><a href="https://ieeexplore.ieee.org/document/11248832" target="_blank">Open Access on IEEE Xplore</a>
 </div>
-
-## Authors
-
-**J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua, K. A. Daltorio  
-*Case Western Reserve University, Cleveland, OH, USA*
 
 ---
 
