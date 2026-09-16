@@ -60,9 +60,7 @@ My research interests include force sensing, legged robot, human-robot interacti
 - <a href="/publications/force-sensor-2025/"
      class="publication-link-icon"
      aria-label="Open publication webpage"
-     title="Open publication webpage"><i class="fas fa-file-alt" aria-hidden="true"></i></a> A High Load Density Miniature Force Sensor for Probing With Robot Feet
-  
-  **J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua and K. A. Daltorio, "A High Load Density Miniature Force Sensor for Probing With Robot Feet," in *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 450-457, Jan. 2026, doi: [10.1109/LRA.2025.3632679](https://doi.org/10.1109/LRA.2025.3632679).  
+     title="Open publication webpage"><i class="fas fa-file-alt" aria-hidden="true"></i></a> **J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua and K. A. Daltorio, "A High Load Density Miniature Force Sensor for Probing With Robot Feet," in *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 450-457, Jan. 2026, doi: [10.1109/LRA.2025.3632679](https://doi.org/10.1109/LRA.2025.3632679).  
 
 ---
 
