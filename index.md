@@ -1,0 +1,63 @@
+---
+layout: single
+author_profile: true
+feature_row:
+  - image_path: /assets/images/paper-thumb.jpg
+    alt: "Force Sensor"
+    title: "DacSeMo"
+    excerpt: "A miniature force sensor module for robot feet with high load density, enabling terrain differentiation and buried object detection."
+    url: "/publications/force-sensor-2025/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/research-thumb.jpg
+    alt: "Research Overview"
+    title: "Research Overview"
+    excerpt: "Exploring how legged robots can sense and adapt to complex environments using novel force sensing technologies integrated directly into robot appendages."
+    url: "/research/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/about-thumb.jpg
+    alt: "About Tom Zhou"
+    title: "About Me"
+    excerpt: "Learn more about my academic background, research interests, and ongoing projects at Case Western Reserve University."
+    url: "/about/"
+    btn_label: "About Me"
+    btn_class: "btn--primary"
+---
+
+<style>
+.page__content p,
+.page__content li {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: auto;
+}
+</style>
+
+## Welcome to my website!
+
+---
+
+### About me:
+
+I am currently a PostDoc researcher in CrabLab at [Case Western Reserve University (CWRU)](https://case.edu), working under the supervision of [Prof. Kathryn Daltorio](https://engineering.case.edu/emae/faculty/kathryn-daltorio). My research focuses on legged robots, human-robot interaction, terrain adaptation, and robotic manipulation.
+
+---
+
+### Research Interests:
+
+My **current research** focus is to develop **miniature high-load-density force sensors** for legged robots.
+My broader research interests include force sensing, terrain differentiation, robotic manipulation, and bio-inspired robot design.
+
+---
+
+### Publications:
+
+- [A High Load Density Miniature Force Sensor for Probing With Robot Feet](/publications/force-sensor-2025/)  
+  **J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua and K. A. Daltorio, "A High Load Density Miniature Force Sensor for Probing With Robot Feet," in *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 450-457, Jan. 2026, doi: [10.1109/LRA.2025.3632679](https://doi.org/10.1109/LRA.2025.3632679).  
+  *Published in [IEEE Robotics and Automation Letters (RA-L)](/publications/force-sensor-2025/)*
+
+---
+
+{% include feature_row %}
