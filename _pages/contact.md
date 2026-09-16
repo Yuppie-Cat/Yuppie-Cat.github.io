@@ -9,7 +9,11 @@ author_profile: true
 
 I welcome inquiries about my research, potential collaborations, and academic correspondence.
 
-**Email:** [tomzhou@case.edu](mailto:tomzhou@case.edu)
+**Email:** tomzhou@case.edu
+
+**Address:** Case Western Reserve University,  
+Department of Mechanical and Aerospace Engineering,
+10900 Euclid Ave, Cleveland, OH 44106, USA
 
 **ORCID:**[0000-0003-3057-8148](https://orcid.org/0000-0003-3057-8148)
 
@@ -17,9 +21,6 @@ I welcome inquiries about my research, potential collaborations, and academic co
 **[ResearchGate](https://www.researchgate.net/profile/Jianfeng-Zhou-16)** / 
 **[LinkedIn](https://www.linkedin.com/in/jianfeng-zhou-6a2432202)**
 
-**Address:** Case Western Reserve University  
-Department of Mechanical and Aerospace Engineering
-10900 Euclid Ave, Cleveland, OH 44106, USA
 
 ---
 
