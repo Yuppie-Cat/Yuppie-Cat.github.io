@@ -1,0 +1,87 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* =============================================================================
+   Custom Styles for Tom Zhou Academic Website
+   ============================================================================= */
+
+/* Author profile avatar */
+.author__avatar img {
+  border-radius: 50%;
+  border: 3px solid #1a3a5c;
+}
+
+/* Paper detail page: figure captions */
+figcaption {
+  font-size: 0.85em;
+  color: #666;
+  text-align: center;
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+/* Video container responsive */
+.video-container {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+/* Publication entry styling */
+.pub-entry {
+  padding: 1em 0;
+  border-bottom: 1px solid #eee;
+}
+
+/* Notice boxes */
+.notice--info a {
+  color: #1a3a5c;
+  font-weight: bold;
+}
+
+/* Feature row buttons */
+.feature__item .btn--primary {
+  background-color: #1a3a5c;
+  border-color: #1a3a5c;
+}
+
+.feature__item .btn--primary:hover {
+  background-color: #0f2540;
+  border-color: #0f2540;
+}
+
+/* Code blocks for BibTeX */
+pre.highlight {
+  background: #f8f9fa;
+  border-left: 4px solid #1a3a5c;
+  padding: 1em;
+  font-size: 0.85em;
+}
+
+/* Table of contents */
+.toc__menu a {
+  color: #1a3a5c;
+}
+
+/* Page header overlay text */
+.page__hero--overlay .page__title {
+  font-size: 1.8em;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
+
+/* Responsive images in paper pages */
+.page__content figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}
