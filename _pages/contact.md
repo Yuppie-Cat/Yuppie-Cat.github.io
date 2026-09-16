@@ -11,7 +11,7 @@ I welcome inquiries about my research, potential collaborations, and academic co
 
 **Email:** tomzhou@case.edu
 
-**Address:** 
+**Address:** <br>
 Department of Mechanical and Aerospace Engineering,<br>
 Case Western Reserve University,<br>
 10900 Euclid Ave, Cleveland, OH 44106, USA
