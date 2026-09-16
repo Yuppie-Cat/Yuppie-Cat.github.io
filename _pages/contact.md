@@ -23,9 +23,3 @@ Department of Mechanical and Aerospace Engineering
 
 ---
 
-## Biologically Inspired Robotics Lab
-
-My research is conducted in the [Biologically Inspired Robotics Lab](https://engineering.case.edu/emae/research/biologically-inspired-robotics) at CWRU, under the supervision of **Prof. Kathryn Daltorio**.
-
----
-
