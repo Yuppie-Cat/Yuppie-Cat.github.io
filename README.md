@@ -1,6 +1,6 @@
 # Tom Zhou — Academic Website
 
-Personal academic website for Tom Zhou, PhD student in Robotics at Case Western Reserve University (CWRU).
+Personal academic website for Tom Zhou, PostDoc in Robotics at Case Western Reserve University (CWRU).
 
 Built with [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme, hosted on GitHub Pages.
 
