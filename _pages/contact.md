@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Contact"
+title: "Get in Touch"
 permalink: /contact/
 author_profile: true
 ---
-
-## Get in Touch
 
 I welcome inquiries about my research, potential collaborations, and academic correspondence.
 
