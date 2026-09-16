@@ -201,3 +201,5 @@ search_full_content: true
 atom_feed:
   hide: true
 
+footer_scripts:
+  - /assets/js/sidebar-links.js
