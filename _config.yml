@@ -26,15 +26,11 @@ author:
   pronouns: "He/Him"
   bio: "Ph.D.  @CWRU EMAE"
   location: "Cleveland, OH, US"
-  employer: "CWRU"
   email: "tomzhou@case.edu"
   links:
     - label: "CWRU"
       icon: "fas fa-fw fa-university"
       url: "https://case.edu"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tomzhou@case.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=zY6vMGUAAAAJ&hl=en"  
@@ -206,3 +202,9 @@ defaults:
 # Search
 search: true
 search_full_content: true
+
+atom_feed:
+  hide: true
+
+head_scripts:
+  - https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
