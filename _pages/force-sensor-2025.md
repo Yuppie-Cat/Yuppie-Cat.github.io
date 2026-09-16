@@ -15,8 +15,8 @@ header:
 
 <div class="notice--info">
   <strong>Published in:</strong> IEEE Robotics and Automation Letters (RA-L), Vol. 11, No. 1, pp. 450–457, Jan. 2026<br>
-  <strong>DOI:</strong> <a href="https://doi.org/10.1109/LRA.2025.3632679">10.1109/LRA.2025.3632679</a><br>
-  <strong>IEEE Xplore:</strong> <a href="https://ieeexplore.ieee.org/document/11248832" target="_blank">View on IEEE Xplore</a>
+  <strong>DOI:</strong> 10.1109/LRA.2025.3632679
+  <strong>View on IEEE Xplore:</strong> <a href="https://ieeexplore.ieee.org/document/11248832" target="_blank">View on IEEE Xplore</a>
 </div>
 
 ## Authors
