@@ -2,7 +2,7 @@
 layout: single
 title: "A High Load Density Miniature Force Sensor for Probing With Robot Feet"
 permalink: /project/DacSeMo/
-author_profile: false
+author_profile: true
 toc: false
 toc_label: "Paper Contents"
 toc_icon: "microchip"
