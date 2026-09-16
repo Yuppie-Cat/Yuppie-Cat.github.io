@@ -45,7 +45,7 @@ feature_row:
 
 ### About me:
 
-I am currently a PostDoc researcher in CrabLab at [Case Western Reserve University (CWRU)](https://case.edu), working under the supervision of [Prof. Kathryn Daltorio](https://engineering.case.edu/emae/faculty/kathryn-daltorio). My research focuses on legged robots, human-robot interaction, terrain adaptation, and robotic manipulation.
+I am currently a PostDoc researcher in CrabLab at <a href="https://case.edu" target="_blank" rel="noopener noreferrer">Case Western Reserve University (CWRU)</a>, working under the supervision of <a href="[https://case.edu](https://engineering.case.edu/emae/faculty/kathryn-daltorio)" target="_blank" rel="noopener noreferrer">Prof. Kathryn Daltorio</a>. My research focuses on legged robots, human-robot interaction, terrain adaptation, and robotic manipulation.
 
 ---
 
@@ -60,7 +60,7 @@ My research interests include force sensing, legged robot, human-robot interacti
 - <a href="/publications/force-sensor-2025/"
      class="publication-link-icon"
      aria-label="Open publication webpage"
-     title="Open publication webpage"><i class="fas fa-file-alt" aria-hidden="true"></i></a> **J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua and K. A. Daltorio, "A High Load Density Miniature Force Sensor for Probing With Robot Feet," in *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 450-457, Jan. 2026, doi:  <a href="https://doi.org/10.1109/LRA.2025.3632679" target="_blank" rel="noopener noreferrer">10.1109/LRA.2025.3632679</a>.
+     title="Open publication webpage"><i class="fas fa-file-alt" aria-hidden="true"></i></a> **J. Zhou**, J. Su, K. Zuo, M. Pan, Z. Chua and K. A. Daltorio, "A High Load Density Miniature Force Sensor for Probing With Robot Feet," in *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 450-457, Jan. 2026, doi:<a href="https://doi.org/10.1109/LRA.2025.3632679" target="_blank" rel="noopener noreferrer">10.1109/LRA.2025.3632679</a>.
 
 ---
 
