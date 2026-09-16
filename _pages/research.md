@@ -13,6 +13,6 @@ My research focuses on developing sensing technologies and control strategies th
 ---
 
 ## Force Sensing for Legged Robots 
-[📄 Details](/publications/force-sensor-2025/){: .btn .btn--primary .btn--small}
+[📄 Details](/project/DacSeMo/){: .btn .btn--primary .btn--small}
 
 ## Hexapod Robot Teleoperation
