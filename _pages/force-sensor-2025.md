@@ -26,8 +26,7 @@ header:
 
 <div class="notice--info publication-info">
   <strong>Published in:</strong> IEEE Robotics and Automation Letters (RA-L), Vol. 11, No. 1, pp. 450–457, Jan. 2026<br>
-  <strong>DOI:</strong> 10.1109/LRA.2025.3632679
-  &gt;&gt;&gt;
+  <strong>DOI:</strong> 10.1109/LRA.2025.3632679<br>
   <a href="https://ieeexplore.ieee.org/document/11248832"
      target="_blank"
      rel="noopener noreferrer">
