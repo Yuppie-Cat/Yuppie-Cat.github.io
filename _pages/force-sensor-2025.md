@@ -46,6 +46,7 @@ header:
 ## Research Background
 
 To sensorize our small hexapod robot, we propose some requirements on the force sensor.
+
 |Our Requirenment | Existing Sensors|
 |--------|------|
 | Strong| Low torque range | 
@@ -57,16 +58,16 @@ To sensorize our small hexapod robot, we propose some requirements on the force 
 ### Load Density
 To evaluate the load capacity of sensors with different form factors and sizes, a key metric that we propose is the ***load density***. 
 
-Force load density (FLD):
+Force load density:
 $$
 FLD = \frac{F_zmax}{A}
 $$
 
-Torque load density (TLD):
+Torque load density:
+$$
+TLD =\frac{T_max}{V}
 $$
 
-$$
-
-is defined as the fraction of the maximum torque load versus the volume. These ratios are chosen so that both FLD and TLD have comparable units of stress. These load densities affect not only the leg size, but also the placement of the sensor and thus the design of the end effector. Relatively lower torque load density leads to many sensors being installed directly on the tips of the end effector to reduce the length of the lever arm, which leads to larger end effector sizes and more structure requirements for adaption, sealing, and protection. In contrast, a larger torque load density allows the sensor to be installed proximal to the joint, allowing larger or interchangeable end effectors to be installed on the sensor, which increases the modularity of the robot. In addition, if the robot foot is being used to probe wet, dirty, rough, cohesive, or hazardous environments, (e.g. as in amphibious or surf zones), putting the sensor closer to the joint may reduce the risk of sensor damage by avoiding direct contact with sand or stone. 
+These ratios are chosen so that both FLD and TLD have comparable units of stress. These load densities affect not only the leg size, but also the placement of the sensor and thus the design of the end effector. Relatively lower torque load density leads to many sensors being installed directly on the tips of the end effector to reduce the length of the lever arm, which leads to larger end effector sizes and more structure requirements for adaption, sealing, and protection. In contrast, a larger torque load density allows the sensor to be installed proximal to the joint, allowing larger or interchangeable end effectors to be installed on the sensor, which increases the modularity of the robot. In addition, if the robot foot is being used to probe wet, dirty, rough, cohesive, or hazardous environments, (e.g. as in amphibious or surf zones), putting the sensor closer to the joint may reduce the risk of sensor damage by avoiding direct contact with sand or stone. 
 
 
