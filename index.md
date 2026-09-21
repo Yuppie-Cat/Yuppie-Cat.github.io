@@ -10,13 +10,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/research-thumb.jpg
-    alt: "Research Overview"
-    title: "Research Overview"
-    excerpt: "Exploring how legged robots can sense and adapt to complex environments using novel force sensing technologies integrated directly into robot appendages."
-    url: "/research/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 ---
 
 <style>
