@@ -5,11 +5,11 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "air"  # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 # Site Information
-title: "Tom Zhou's Website"
+title: "Tom's Website"
 title_separator: "|"
 subtitle: "Publications and Projects"
-name: "Tom Zhou"
-description: "Academic website of Dr. Tom Zhou. Research on legged robots, human-robot interaction, and robotic manipulation."
+name: "Jianfeng Zhou"
+description: "Academic website of Dr. Jianfeng Zhou. Research on legged robots, human-robot interaction, and robotic manipulation."
 url: "https://Yuppie-Cat.github.io"
 baseurl: ""  # Leave empty for username.github.io repos
 repository: "Yuppie-Cat/Yuppie-Cat.github.io"
@@ -21,10 +21,10 @@ og_image: "/assets/images/avatar.jpg"
 
 # Site Author (sidebar profile)
 author:
-  name: "Dr. Tom Zhou"
+  name: "Dr. Jianfeng Zhou"
   avatar: "/assets/images/avatar.jpg"
   pronouns: "He/Him"
-  bio: "PostDoc @CWRU EMAE"
+  bio: "Postdoc @CWRU"
   links:
     - label: "tomzhou@case.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -37,7 +37,7 @@ author:
       url: "https://scholar.google.com/citations?user=zY6vMGUAAAAJ&hl=en"  
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-3057-8148"  
+      url: "https://orcid.org/0000-0003-3057-8148" 
       #- label: "GitHub"
       #icon: "fab fa-fw fa-github"
       #url: "https://github.com/Yuppie-Cat"
