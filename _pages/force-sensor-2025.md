@@ -7,14 +7,14 @@ toc: false
 toc_label: "Paper Contents"
 toc_icon: "microchip"
 header:
-  overlay_color: "#1a3a5c"
+  overlay_color: "#ffffff"
   overlay_filter: "0.15"
   overlay_image: /assets/images/DacSeMo/Robot&Dactyl1.png
   caption: "Published on IEEE Robotics and Automation Letters"
   
 ---
 <style>
-@media (min-width: 64em) {
+@media (min-width: 48em) {
   .page__hero--overlay {
     background-size: cover, 100% auto;
     background-position: center, center;
