@@ -101,10 +101,10 @@ Comparing to traditional cross-beam type or column type 3D F/T sneosrs, which us
     alt="smaller"
     style="width: 50%; height: auto;">
   <figcaption>
-    The installation of strain gauges also make DacSeMo available for smaller size: as long as the width($$W$$) is larger than 2 times of strain gauges width ($$W_{SG}$$) and the length of the straight slot ($$L_{SS}$$) is larger than the length of grid ($$L_{grid}$$).
+    
   </figcaption>
 </figure>
-
+The installation of strain gauges also make DacSeMo available for smaller size: as long as the width($$W$$) is larger than 2 times of strain gauges width ($$W_{SG}$$) and the length of the straight slot ($$L_{SS}$$) is larger than the length of grid ($$L_{grid}$$).
 
 
 
