@@ -45,7 +45,7 @@ feature_row:
 
 ### About me:
 
-I am currently a PostDoc researcher in CrabLab at <a href="https://case.edu" target="_blank" rel="noopener noreferrer">Case Western Reserve University (CWRU)</a>, working under the supervision of <a href="https://case.edu/engineering/about/faculty-and-staff-directory/kathryn-daltorio" target="_blank" rel="noopener noreferrer">Prof. Kathryn Daltorio</a>. My research focuses on legged robots, human-robot interaction, terrain adaptation, and robotic manipulation.
+I am currently a Postdoctoral researcher in <a href="https://sites.google.com/case.edu/datoriolab-cwru/research/crab-like-robots?authuser=0" target="_blank" rel="noopener noreferrer">CrabLab</a> at Case Western Reserve University (CWRU), working under the supervision of <a href="https://case.edu/engineering/about/faculty-and-staff-directory/kathryn-daltorio" target="_blank" rel="noopener noreferrer">Prof. Kathryn Daltorio</a>. My research focuses on legged robots, human-robot interaction, terrain adaptation, and robotic manipulation.
 
 ---
 
