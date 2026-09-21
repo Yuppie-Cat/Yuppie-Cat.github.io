@@ -11,8 +11,7 @@ header:
   overlay_filter: "0.15"
   overlay_image: /assets/images/DacSeMo/Robot&Dactyl1.png
   caption: "Published on IEEE RAL"
-  
----
+
 <style>
 @media (min-width: 48em) {
   .page__hero--overlay {
@@ -22,11 +21,26 @@ header:
   }
 }
 </style>
+  
+---
 
-<div class="notice--info">
+<div class="notice--info publication-info">
   <strong>Published in:</strong> IEEE Robotics and Automation Letters (RA-L), Vol. 11, No. 1, pp. 450–457, Jan. 2026<br>
-  <strong>DOI:</strong> 10.1109/LRA.2025.3632679  >>><a href="https://ieeexplore.ieee.org/document/11248832" target="_blank">Open Access on IEEE Xplore</a>
+  <strong>DOI:</strong> 10.1109/LRA.2025.3632679
+  &gt;&gt;&gt;
+  <a href="https://ieeexplore.ieee.org/document/11248832"
+     target="_blank"
+     rel="noopener noreferrer">
+    Open Access on IEEE Xplore
+  </a>
 </div>
+
+<style>
+.publication-info {
+  font-size: 1.1em !important;
+  line-height: 1.7;
+}
+</style>
 
 ---
 
