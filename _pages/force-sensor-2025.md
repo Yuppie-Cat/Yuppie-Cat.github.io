@@ -42,18 +42,9 @@ header:
 </style>
 
 ---
-
+![Sensor on Robot]({{ '/assets/images/DacSeMo/Robot&Dactyl1.png' | relative_url }})
 ## Research Background
 
-<figure style="text-align: center;">
-  <img
-    src="{{ '/assets/images/DacSeMo/Robot&Dactyl1.png' | relative_url }}"
-    alt="Force and torque load density comparison"
-    style="width: 100%; height: auto;">
-  <figcaption>
-    Force and torque load density comparison.
-  </figcaption>
-</figure>
 
 To sensorize our small hexapod robot, we propose some requirements on the force sensor.
 
@@ -70,7 +61,7 @@ To evaluate the load capacity of sensors with different form factors and sizes, 
 
 Force load density:
 $$
-FLD = \frac{F_{zmax}}{A}
+FLD = \frac{F_{max}}{A}
 $$
 
 Torque load density:
