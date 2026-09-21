@@ -7,7 +7,7 @@ toc: false
 toc_label: "Paper Contents"
 toc_icon: "microchip"
 header:
-  overlay_color: "#ffffff"
+  overlay_color: "#fafafa"
   overlay_filter: "0.15"
   overlay_image: /assets/images/DacSeMo/Robot&Dactyl1.png
   caption: "Published on IEEE Robotics and Automation Letters"
