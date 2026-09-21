@@ -64,15 +64,14 @@ These ratios are chosen so that both FLD and TLD have comparable units of stress
   <img
     src="{{ '/assets/images/DacSeMo/load_density.png' | relative_url }}"
     alt="Force and torque load density comparison"
-    style="width: 100%; height: auto;">
+    style="width: 60%; height: auto;">
   <figcaption>
     Force and torque load density comparison.
   </figcaption>
 </figure>
 
-## Sensor Design, Mechanism and Installation
 
-### Sensor Design and Installation
+## Sensor Design and Installation
 
 <video controls playsinline preload="metadata" width="100%">
   <source
@@ -81,7 +80,7 @@ These ratios are chosen so that both FLD and TLD have comparable units of stress
   Your browser does not support the HTML5 video element.
 </video>
 
-### Sensing Mechanism
+## Sensing Mechanism
 
 <video controls playsinline preload="metadata" width="100%">
   <source
