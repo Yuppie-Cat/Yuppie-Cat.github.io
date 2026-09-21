@@ -62,7 +62,7 @@ These ratios are chosen so that both FLD and TLD have comparable units of stress
 
 <figure style="text-align: center;">
   <img
-    src="{{ '/assets/images/DacSeMo/load_density.png' | relative_url }}"
+    src="{{ '/assets/images/DacSeMo/load_density.jpg' | relative_url }}"
     alt="Force and torque load density comparison"
     style="width: 60%; height: auto;">
   <figcaption>
