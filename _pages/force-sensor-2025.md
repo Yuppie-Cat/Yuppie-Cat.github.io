@@ -40,7 +40,7 @@ To sensorize our small hexapod robot, we propose some requirements on the force 
 |Our Requirenment | Existing Sensors|
 |--------|------|
 | Strong| Low torque range | 
-| Small Size | Too big for derired range | 
+| Small Size | Too big for desired range | 
 | Onboard Data Processing | Most need additional data collector and power supply| 
 | Cheap | More expensive than the robot | 
 
