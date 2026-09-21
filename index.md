@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 feature_row:
-  - image_path: /assets/images/paper-thumb.jpg
+  - image_path: /assets/images/DacSeMo/dactyl.png
     alt: "Force Sensor"
     title: "DacSeMo"
     excerpt: "A miniature force sensor module for robot feet with high load density, enabling terrain differentiation and buried object detection."
