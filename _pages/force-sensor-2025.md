@@ -12,17 +12,6 @@ header:
   overlay_image: /assets/images/DacSeMo/Robot&Dactyl1.png
   caption: "Published in IEEE RAL"
 ---
-<style>
-@media (min-width: 48em) {
-  .page__hero--overlay {
-    background-size: cover, 100% auto;
-    background-position: center, center;
-    background-repeat: no-repeat, no-repeat;
-  }
-}
-</style>
-  
----
 
 <div class="notice--info publication-info">
   <strong>Published in:</strong> IEEE Robotics and Automation Letters (RA-L), Vol. 11, No. 1, pp. 450–457, Jan. 2026<br>
