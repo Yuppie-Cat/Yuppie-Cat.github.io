@@ -31,7 +31,7 @@ header:
 </style>
 
 ---
-# DacSeMo
+## DacSeMo
 **Dac**tyl **Se**nsing **Mo**dule
 ![Sensor on Robot]({{ '/assets/images/DacSeMo/Robot&Dactyl1.png' | relative_url }})
 
