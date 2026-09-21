@@ -10,7 +10,7 @@ header:
   overlay_color: "#fafafa"
   overlay_filter: "0.15"
   overlay_image: /assets/images/DacSeMo/Robot&Dactyl1.png
-  caption: "Published on IEEE RAL"
+  caption: "Published in IEEE RAL"
 ---
 <style>
 @media (min-width: 48em) {
