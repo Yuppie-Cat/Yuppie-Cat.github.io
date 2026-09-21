@@ -31,9 +31,11 @@ header:
 </style>
 
 ---
+# DacSeMo
+**Dac**tyl **Se**nsing **Mo**dule
 ![Sensor on Robot]({{ '/assets/images/DacSeMo/Robot&Dactyl1.png' | relative_url }})
-## Research Background
 
+## Research Background
 
 To sensorize our small hexapod robot, we propose some requirements on the force sensor.
 
@@ -88,3 +90,13 @@ These ratios are chosen so that both FLD and TLD have comparable units of stress
     type="video/mp4">
   Your browser does not support the HTML5 video element.
 </video>
+
+## Simple Structure with Smaller Size
+![traditional sensors]({{ '/assets/images/DacSeMo/traditional.jpg' | relative_url }})
+Comparing to traditional cross-beam type or column type 3D F/T sneosrs, which use only 1 pair of strain gauges for shear-load meashuring, our DacSeMo uses all 4 strain gauges. This mechanism make DacSeMo need less surfaces and beam structure for measuring, leading to easier manufacturing and installation.
+
+![traditional sensors]({{ '/assets/images/DacSeMo/smaller_size.jpg' | relative_url }})
+The installation of strain gauges also make DacSeMo available for smaller size: as long as the width($$W$$) is larger than 2 times of strain gauges width ($$W_{SG}$$) and the length of the straight slot ($$L_{SS}$$) is larger than the length of grid ($$L_{grid}$$).
+
+
+
