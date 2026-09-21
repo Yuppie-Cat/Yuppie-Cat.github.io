@@ -93,7 +93,7 @@ These ratios are chosen so that both FLD and TLD have comparable units of stress
 
 ## Simple Structure with Smaller Size
 ![traditional sensors]({{ '/assets/images/DacSeMo/traditional.jpg' | relative_url }})
-Comparing to traditional cross-beam type or column type 3D F/T sneosrs, which use only 1 pair of strain gauges for shear-load meashuring, our DacSeMo uses all 4 strain gauges. This mechanism make DacSeMo need less surfaces and beam structure for measuring, leading to easier manufacturing and installation.
+Comparing to traditional cross-beam type or column type 3D F/T sneosrs, which use only 1 pair of strain gauges for shear-load measuring, our DacSeMo uses all 4 strain gauges. This mechanism make DacSeMo need less surfaces and beam structure for measuring, leading to easier fabrication and installation.
 
 <figure style="text-align: center;">
   <img
