@@ -87,17 +87,4 @@ pre.highlight {
   border-radius: 4px;
 }
 
-/* Mobile: always show author links */
-@media screen and (max-width: 1023px) {
-  .author__urls {
-    display: block !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-    position: static !important;
-  }
-
-  .author__urls-wrapper button {
-    display: none !important;
-  }
-}
 
