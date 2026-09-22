@@ -37,7 +37,7 @@ header:
 
 ## Research Background
 
-To sensorize our small hexapod robot, we propose some requirements on the force sensor.
+To sensorize the dactyl (foot tip) of our small hexapod robot, we propose some requirements on the force sensor.
 
 |Our Requirenment | Existing Sensors|
 |--------|------|
